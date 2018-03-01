@@ -1,0 +1,25 @@
+launch SAMSUNG_USB_Driver_for_Mobile_Phones
+to install drivers for android studio so it can detects your own
+phone instead of the shitty emulator.
+inside the android studio get to devices and click on devices
+should look like gibrish first, click on it and it will send
+a notification message to your phone to allow the pc to recognize it
+allow it and it will work.
+good luck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enjoy :)
